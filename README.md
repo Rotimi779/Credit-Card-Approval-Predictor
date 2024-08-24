@@ -1,4 +1,5 @@
-# Stock-Market-Analysis-Tool
+# Credit-Card-Approval-Predictor
+
 
 ## Introduction
 This project focuses on predicting credit card approval outcomes using machine learning. The dataset used in this analysis is from a credit card approval dataset which contains various attributes related to credit card applications. The goal is to build a classification model that predicts whether a credit card application will be approved or not based on these attributes. We use several preprocessing techniques and machine learning algorithms to achieve this.
